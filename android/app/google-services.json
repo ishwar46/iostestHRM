@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "425885197116",
+    "project_id": "hrmuranus",
+    "storage_bucket": "hrmuranus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425885197116:android:6a7d55df15dfaadb4df439",
+        "android_client_info": {
+          "package_name": "com.bgmcl.hrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425885197116-f5a2rs5j2e0k45ei9mh6dlj7cr1msq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjE9aZZlU51x24EG7uZskrWYV-RmyI6uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425885197116-f5a2rs5j2e0k45ei9mh6dlj7cr1msq0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425885197116-cbdrhgfgjm0d64q4v4c7rj8nou0ljg1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uranustechnepal.hrm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425885197116:android:328309ac675f7bad4df439",
+        "android_client_info": {
+          "package_name": "com.uniquenepal.hrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425885197116-f5a2rs5j2e0k45ei9mh6dlj7cr1msq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjE9aZZlU51x24EG7uZskrWYV-RmyI6uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425885197116-f5a2rs5j2e0k45ei9mh6dlj7cr1msq0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425885197116-cbdrhgfgjm0d64q4v4c7rj8nou0ljg1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uranustechnepal.hrm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425885197116:android:f2050c2a5924905a4df439",
+        "android_client_info": {
+          "package_name": "com.uranustechnepal.hrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425885197116-srfp1iuu04c4vlleeo3see6sn71g8nhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uranustechnepal.hrm",
+            "certificate_hash": "9517ddc936f55e3e6f279fb0efad318b11891bc7"
+          }
+        },
+        {
+          "client_id": "425885197116-f5a2rs5j2e0k45ei9mh6dlj7cr1msq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjE9aZZlU51x24EG7uZskrWYV-RmyI6uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425885197116-f5a2rs5j2e0k45ei9mh6dlj7cr1msq0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425885197116-cbdrhgfgjm0d64q4v4c7rj8nou0ljg1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uranustechnepal.hrm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
